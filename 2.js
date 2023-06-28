@@ -1,4 +1,4 @@
 const j2 = 2
 
-const test = 1
+const test = 'test'
 const abc = 'abc'
